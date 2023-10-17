@@ -41,3 +41,4 @@ C:\Users\Ruena\source\repos\WindowsFormWithCRUD\bin\Debug\System.Numerics.Vector
 C:\Users\Ruena\source\repos\WindowsFormWithCRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Ruena\source\repos\WindowsFormWithCRUD\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Ruena\source\repos\WindowsFormWithCRUD\obj\Debug\WindowsFormWithCRUD.csproj.CopyComplete
+C:\Users\Ruena\source\repos\WindowsFormWithCRUD\obj\Debug\WindowsFormWithCRUD.LoginForm.resources
